@@ -1,2 +1,3 @@
 # samuelyvon.github.io
-My GithubIO Website
+
+Repository for my [github.io website](https://samuelyvon.github.io)
