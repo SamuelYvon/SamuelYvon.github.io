@@ -64,7 +64,7 @@ stem_cell_generator_advance.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1
 
 So I guess it is the game!
 
-Also what is also
+Also what are
 
 > deeply embedded system designs
 
@@ -526,8 +526,8 @@ c3 is within: ['K']
 ```
 
 Oh damnit. I was hoping for a single solution. Thankfully, because there is a
-1:1 mapping between C1 and C2 (because of the xor, the arrays are aligned, so
-there are 4 possible solutions, not 16). But it's also possible that I missed a
+1:1 mapping between C1 and C2 (because of the xor, the arrays are aligned)
+there are 4 possible solutions, not 16. But it's also possible that I missed a
 condition?
 
 At this point my heart was pounding really hard. I had been struggling on
